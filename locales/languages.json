@@ -23,5 +23,10 @@
     "label": "Turkish",
     "extension": true,
     "server": true
+  },
+  "de": {
+    "label": "German",
+    "extension": true,
+    "server": true
   }
 }

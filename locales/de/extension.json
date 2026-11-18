@@ -1,0 +1,9 @@
+{
+  "backup": {
+    "export": {
+      "complete": "Der Export ist abgeschlossen."
+    },
+    "restore": "Sicherung importieren",
+    "syncBtn": "Synchronisierungsverlauf zwischen App und Erweiterung"
+  }
+}
